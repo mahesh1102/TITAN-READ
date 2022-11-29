@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "repository": "git+https://github.com/Atul-tyagi23/CSO-Project.git",
-  "author": "Atul, Kushal, Lakshay, Adarsh",
+  "author": "Mahesh, Kushal, Lakshay, Adarsh",
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.3.0",
@@ -36,7 +36,7 @@
     "nodemon": "^2.0.4"
   },
   "bugs": {
-    "url": "https://github.com/Atul-tyagi23/CSO-Project/issues"
+    "url": "https://github.com/Mahesh1102/Titan-read/issues"
   },
-  "homepage": "https://github.com/Atul-tyagi23/CSO-Project#readme"
+  "homepage": "https://github.com/Mahesh1102/Titan-read#readme"
 }
